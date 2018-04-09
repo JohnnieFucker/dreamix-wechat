@@ -6,5 +6,5 @@
 const wechatQY = require('./lib/wechat-enterprise');
 
 module.exports = {
-    wechatQY: wechatQY
+    WECHATQY: wechatQY
 };
